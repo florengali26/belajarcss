@@ -1,0 +1,43 @@
+h1 {
+  color: white;
+  background-color: blue;
+  text-align: center;
+}
+p {
+  color: red;
+  background-color: black;
+}
+#mingyu {
+  color: white;
+  background-color: green;
+}
+.Warnasatu {
+  color: green;
+  background-color: red;
+}
+.Warnadua {
+  color: black;
+  background-color: pink;
+}
+.Warnatiga {
+  color: brown;
+  background-color: cadetblue;
+}
+#kotak-satu {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  margin-bottom: 10px;
+}
+#kotak-dua {
+  height: 100px;
+  width: 400px;
+  background-color: pink;
+  margin-bottom: 10px;
+}
+#kotak-tiga {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  border-radius: 50%;
+}
